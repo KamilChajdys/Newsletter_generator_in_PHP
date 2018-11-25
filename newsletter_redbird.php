@@ -30,6 +30,9 @@
 @$photo_16 = $_POST ['photo_16'];
 @$photo_17 = $_POST ['photo_17'];
 @$photo_18 = $_POST ['photo_18'];
+@$photo_19 = $_POST ['photo_19'];
+
+
 
 //Nazwa przedmiotu
 @$przedmiot_01_nazwa = $_POST ['przedmiot_01_nazwa'];
@@ -50,7 +53,7 @@
 @$przedmiot_16_nazwa = $_POST ['przedmiot_16_nazwa'];
 @$przedmiot_17_nazwa = $_POST ['przedmiot_17_nazwa'];
 @$przedmiot_18_nazwa = $_POST ['przedmiot_18_nazwa'];
-
+@$przedmiot_19_nazwa = $_POST ['przedmiot_19_nazwa'];
 
 //Adresy url do przedmiotów
 @$photo_glowne_link = $_POST ['photo_glowne_link'];
@@ -72,6 +75,7 @@
 @$przedmiot_16_link = $_POST ['przedmiot_16_link'];
 @$przedmiot_17_link = $_POST ['przedmiot_17_link'];
 @$przedmiot_18_link = $_POST ['przedmiot_18_link'];
+@$przedmiot_19_link = $_POST ['przedmiot_19_link'];
 
 //CENY
 @$przedmiot_01_cena = $_POST ['przedmiot_01_cena'];
@@ -92,6 +96,7 @@
 @$przedmiot_16_cena = $_POST ['przedmiot_16_cena'];
 @$przedmiot_17_cena = $_POST ['przedmiot_17_cena'];
 @$przedmiot_18_cena = $_POST ['przedmiot_18_cena'];
+@$przedmiot_19_cena = $_POST ['przedmiot_19_cena'];
 
 
 
